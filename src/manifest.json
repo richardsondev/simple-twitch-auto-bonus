@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "Simple Twitch Auto Bonus",
-  "version": "1.1",
+  "version": "1.2",
 
   "description": "Clicks the 'Click to claim a bonus' button automatically when viewing a Twitch stream.",
 
